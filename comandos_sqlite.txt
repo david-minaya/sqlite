@@ -1,0 +1,6 @@
+ 
+ 01 | sqlite <file_name>.db      | Crea un nueva base de datos 
+ 02 | .schema <name_table>       | Muestra el esquema de la tabla
+ 03 | PRAGMA foreign_keys;       | Muestra si la clave foranea esta activa
+ 04 | PRAGMA foreign_keys = ON;  | Habilita la clave foranea
+ 05 | PRAGMA foreign_keys = OFF; | Deshabilita la clave foranea
